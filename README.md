@@ -2,6 +2,12 @@
 
 A simple yet powerful Android application that allows you to change the **TTL (Time to Live)** value on your rooted device.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/app_screenshot.png" width="300" alt="TTL Changer Main Screen">
+</p>
+
 ## ⚡ Features
 
 - **📖 Read & Write TTL** — Instantly read the current IPv4 TTL value and write a new one
