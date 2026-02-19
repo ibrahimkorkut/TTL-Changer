@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TTL Changer</string>
+    <string name="widget_name">TTL Quick Apply</string>
+    <string name="widget_description">One-tap widget to apply your saved TTL value</string>
+</resources>

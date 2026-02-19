@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M0,0h108v108H0z" />
+    <!-- Network circle -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+    <!-- TTL Text representation - network signal icon -->
+    <path
+        android:fillColor="#0D1117"
+        android:pathData="M54,40c5.69,0 10.75,3.19 13.23,8.25C64.75,51.19 59.69,54.5 54,54.5s-10.75,-3.19 -13.23,-8.25C43.25,43.19 48.31,40 54,40m0,-3c-7.5,0 -13.91,4.66 -16.5,11.25 2.59,6.59 9,11.25 16.5,11.25s13.91,-4.66 16.5,-11.25C67.91,41.66 61.5,37 54,37zM54,44c2.07,0 3.75,1.68 3.75,3.75S56.07,51.5 54,51.5s-3.75,-1.68 -3.75,-3.75S51.93,44 54,44m0,-3c-3.72,0 -6.75,3.03 -6.75,6.75S50.28,54.5 54,54.5s6.75,-3.03 6.75,-6.75S57.72,41 54,41z"
+        android:strokeWidth="0" />
+    <!-- TTL Label -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,68l3,-10h2l3,10h-2l-0.7,-2.5h-2.6L44,68h-2zM45.2,64h1.6l-0.8,-3zM51,68V58h5v2h-3v2h2.5v2H53v2h3v2h-5z" />
+</vector>
